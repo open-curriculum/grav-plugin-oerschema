@@ -34,17 +34,16 @@ Here is the default configuration and an explanation of available options:
 
 ```yaml
 enabled: true
+pages:
+	markdown:
+		extra: true
 ```
 
 ## Usage
 
-**Describe how to use the plugin.**
+Ensure that if you are using markdown, that markdown: extra: true is enabled. This is the default setting.
 
 ## Credits
 
-**Did you incorporate third-party code? Want to thank somebody?**
-
-## To Do
-
-- [ ] Future plans, if any
+For more information for using OER Schema, visit http://oerschema.org.
 
