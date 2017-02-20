@@ -14,11 +14,11 @@ The simplest way to install this plugin is via the [Grav Package Manager (GPM)](
 
     bin/gpm install oerschema
 
-This will install the Oer Schema plugin into your `/user/plugins` directory within Grav. Its files can be found under `/your/site/grav/user/plugins/oer-schema`.
+This will install the Oer Schema plugin into your `/user/plugins` directory within Grav. Its files can be found under `/your/site/grav/user/plugins/oerschema`.
 
 ### Manual Installation
 
-To install this plugin, just download the zip version of this repository and unzip it under `/your/site/grav/user/plugins`. Then, rename the folder to `oer-schema`. You can find these files on [GitHub](https://github.com/michael-collins/grav-plugin-oer-schema) or via [GetGrav.org](http://getgrav.org/downloads/plugins#extras).
+To install this plugin, just download the zip version of this repository and unzip it under `/your/site/grav/user/plugins`. Then, rename the folder to `oerschema`. You can find these files on [GitHub](https://github.com/michael-collins/grav-plugin-oer-schema) or via [GetGrav.org](http://getgrav.org/downloads/plugins#extras).
 
 You should now have all the plugin files under
 
@@ -28,7 +28,7 @@ You should now have all the plugin files under
 
 ## Configuration
 
-Before configuring this plugin, you should copy the `user/plugins/oer-schema/oer-schema.yaml` to `user/config/plugins/oer-schema.yaml` and only edit that copy.
+Before configuring this plugin, you should copy the `user/plugins/oerschema/oer-schema.yaml` to `user/config/plugins/oer-schema.yaml` and only edit that copy.
 
 Here is the default configuration and an explanation of available options:
 
