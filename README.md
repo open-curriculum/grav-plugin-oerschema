@@ -12,7 +12,7 @@ Installing the Oer Schema plugin can be done in one of two ways. The GPM (Grav P
 
 The simplest way to install this plugin is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's terminal (also called the command line).  From the root of your Grav install type:
 
-    bin/gpm install oer-schema
+    bin/gpm install oerschema
 
 This will install the Oer Schema plugin into your `/user/plugins` directory within Grav. Its files can be found under `/your/site/grav/user/plugins/oer-schema`.
 
@@ -22,7 +22,7 @@ To install this plugin, just download the zip version of this repository and unz
 
 You should now have all the plugin files under
 
-    /your/site/grav/user/plugins/oer-schema
+    /your/site/grav/user/plugins/oerschema
 	
 > NOTE: This plugin is a modular component for Grav which requires [Grav](http://github.com/getgrav/grav) and the [Error](https://github.com/getgrav/grav-plugin-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) to operate.
 
